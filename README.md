@@ -6,7 +6,7 @@
 
 ## Features
 
-- Calculate age from birhtday
+- Calculate age from birthday
 
 
 
